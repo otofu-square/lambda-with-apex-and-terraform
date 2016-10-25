@@ -1,0 +1,8 @@
+{
+  "name": "otofu-square-sandbox",
+  "description": "This is sandbox by otofu-square;",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::166616333867:role/otofu-square-sandbox_lambda_function",
+  "environment": {}
+}
